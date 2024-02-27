@@ -86,6 +86,11 @@ function CardPage() {
             url: 'https://devlibrary.withgoogle.com/',
             imagen: imgDevLibrary
         },
+        {
+            title: 'Full Stack Open',
+            category: 'web',
+            url: 'https://fullstackopen.com/es/'.
+        }
     ];
 
     // Función para filtrar las páginas según la categoría seleccionada
