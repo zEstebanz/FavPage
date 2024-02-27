@@ -10,6 +10,7 @@ import imgGalileoAi from '../../public/img/GalileoAi.jpg';
 import imgGitHubProfileGenerator from '../../public/img/GitHub Profile README Generator.jpg';
 import imgGitHubCertifications from '../../public/img/github-certifications.jpg';
 import imgDeveloperRoadmaps from '../../public/img/Developer Roadmaps.jpg';
+import imgFullStackOpen from '../../public/img/FullStackOpen.png';
 import imgDevLibrary from '../../public/img/devlibrary.jpg';
 
 import Image from 'next/image';
@@ -89,7 +90,8 @@ function CardPage() {
         {
             title: 'Full Stack Open',
             category: 'web',
-            url: 'https://fullstackopen.com/es/'.
+            url: 'https://fullstackopen.com/es/',
+            img: imgFullStackOpen
         }
     ];
 
